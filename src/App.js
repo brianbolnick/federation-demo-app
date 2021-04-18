@@ -1,7 +1,6 @@
 import React from 'react';
+import About from './About';
 
-const App = () => {
-  return <h1>An app</h1>;
-};
+const App = () => <About />;
 
 export default App;
